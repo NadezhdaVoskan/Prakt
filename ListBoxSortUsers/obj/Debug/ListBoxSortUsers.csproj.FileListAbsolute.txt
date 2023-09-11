@@ -1,0 +1,16 @@
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\bin\Debug\ListBoxSortUsers.exe.config
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\bin\Debug\ListBoxSortUsers.exe
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\bin\Debug\ListBoxSortUsers.pdb
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\ListBoxSortUsers.csproj.AssemblyReference.cache
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\ListBoxSortUsers.csproj.SuggestedBindingRedirects.cache
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\MainWindow.g.cs
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\App.g.cs
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\ListBoxSortUsers_MarkupCompile.cache
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\ListBoxSortUsers_MarkupCompile.lref
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\MainWindow.baml
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\ListBoxSortUsers.g.resources
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\ListBoxSortUsers.Properties.Resources.resources
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\ListBoxSortUsers.csproj.GenerateResource.cache
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\ListBoxSortUsers.csproj.CoreCompileInputs.cache
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\ListBoxSortUsers.exe
+D:\ForExam\ListBoxSortUsers\ListBoxSortUsers\obj\Debug\ListBoxSortUsers.pdb
